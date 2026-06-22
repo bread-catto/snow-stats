@@ -1,2 +1,2 @@
 # snow-stats
-A basic informational page
+A basic informational webpage
